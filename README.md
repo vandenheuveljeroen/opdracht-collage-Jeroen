@@ -9,3 +9,8 @@ thank you..
 
 In life you have 3 C's, Choice, Chance and Change...
 You make a Choice and take your Chance that will eventually Change your life...
+
+in case of fire:
+- git commit
+- git push
+- git outofhere! ;)
