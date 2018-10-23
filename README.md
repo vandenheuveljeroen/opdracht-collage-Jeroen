@@ -12,3 +12,5 @@ the very first time the phrase : "when life gives you lemons.." was used,
     Reclining in the shade
     In calm contentment, drinking
     A glass of lemonade."* 
+
+thank you
